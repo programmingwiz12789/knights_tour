@@ -1,0 +1,16 @@
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\bin\Debug\net8.0-windows\Knight's Tour.exe
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\bin\Debug\net8.0-windows\Knight's Tour.deps.json
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\bin\Debug\net8.0-windows\Knight's Tour.runtimeconfig.json
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\bin\Debug\net8.0-windows\Knight's Tour.dll
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\bin\Debug\net8.0-windows\Knight's Tour.pdb
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\obj\Debug\net8.0-windows\Knight's Tour.vbproj.GenerateResource.cache
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\obj\Debug\net8.0-windows\Knight's Tour.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\obj\Debug\net8.0-windows\Knight's Tour.AssemblyInfoInputs.cache
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\obj\Debug\net8.0-windows\Knight's Tour.AssemblyInfo.vb
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\obj\Debug\net8.0-windows\Knight's Tour.vbproj.CoreCompileInputs.cache
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\obj\Debug\net8.0-windows\Knight's Tour.dll
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\obj\Debug\net8.0-windows\refint\Knight's Tour.dll
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\obj\Debug\net8.0-windows\Knight's Tour.pdb
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\obj\Debug\net8.0-windows\Knight's Tour.genruntimeconfig.cache
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\obj\Debug\net8.0-windows\ref\Knight's Tour.dll
+D:\My Data\Personal Projects\Knight's Tour\Knight's Tour\obj\Debug\net8.0-windows\Knight_s_Tour.KnightsTour.resources
